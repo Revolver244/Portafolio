@@ -1,38 +1,37 @@
-# Portafolio
-# 📂 Mis Repositorios en GitHub
+# 📂 Portafolio de Proyectos - Revolver244
 
-¡Hola! Aquí tienes una lista de mis repos públicos organizados:
+¡Bienvenido! Aquí puedes ver todos mis proyectos públicos en GitHub.
 
 ---
 
-### 🚀 Proyectos principales
+## 🚀 Proyectos destacados
 
-- [calculadora-cientifica](https://github.com/Revolver244/calculadora-cientifica)  
-  Calculadora científica hecha con Ionic y Angular como práctica móvil.
+- [📱 calculadora-cientifica](https://github.com/Revolver244/calculadora-cientifica)  
+  Calculadora científica con Ionic y Angular.
 
-- [Ducati-landing](https://github.com/Revolver244/Ducati-landing)  
+- [🏍️ Ducati-landing](https://github.com/Revolver244/Ducati-landing)  
   Página estática tipo landing page inspirada en Ducati.
 
-- [ejemplo-angular-lazy](https://github.com/Revolver244/ejemplo-angular-lazy)  
-  Ejemplo de uso de carga perezosa en Angular.
+- [📦 ejemplo-angular-lazy](https://github.com/Revolver244/ejemplo-angular-lazy)  
+  Ejemplo de carga perezosa en Angular.
 
-- [ionic-tarea-app](https://github.com/Revolver244/ionic-tarea-app)  
-  App de tareas móviles con navegación, almacenamiento local y validaciones.
+- [📝 ionic-tarea-app](https://github.com/Revolver244/ionic-tarea-app)  
+  App de tareas con almacenamiento local y navegación.
 
-- [peliculasApp](https://github.com/Revolver244/peliculasApp)  
-  Proyecto de aplicación de películas en Ionic/Angular.
-
----
-
-### 📚 Pruebas, ejemplos y experimentos
-
-- [ejemplo-captura-json](https://github.com/Revolver244/ejemplo-captura-json)  
-  Proyecto base para consumir archivos JSON desde Angular.
-
-- [programacion-dispositivos-moviles](https://github.com/Revolver244/programacion-dispositivos-moviles)  
-  Repositorio de clase con prácticas de Ionic y Angular.
+- [🎬 peliculasApp](https://github.com/Revolver244/peliculasApp)  
+  Aplicación de películas en Ionic/Angular.
 
 ---
 
-### 🔗 Enlace directo a mi perfil:
+## 🧪 Ejemplos y prácticas
+
+- [📄 ejemplo-captura-json](https://github.com/Revolver244/ejemplo-captura-json)  
+  Consumo básico de JSON en Angular.
+
+- [📚 programacion-dispositivos-moviles](https://github.com/Revolver244/programacion-dispositivos-moviles)  
+  Repositorio de prácticas y tareas del curso móvil.
+
+---
+
+## 🔗 Perfil completo:
 [https://github.com/Revolver244](https://github.com/Revolver244)
