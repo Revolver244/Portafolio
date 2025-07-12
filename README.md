@@ -9,7 +9,7 @@
 - [📱 calculadora-cientifica](https://github.com/Revolver244/calculadora-cientifica)  
   Calculadora científica con Ionic y Angular.
 
-- [🏍️ Ducati-landing]([https://github.com/Revolver244/Ducati-landing](https://github.com/Revolver244/pag-ducati.git))  
+- [🏍️ Ducati-landing](https://github.com/Revolver244/pag-ducati.git)  
   Página estática tipo landing page inspirada en Ducati.
 
 - [📦 ejemplo-angular-lazy](https://github.com/Revolver244/ejemplo-angular-lazy)  
