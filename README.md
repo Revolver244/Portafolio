@@ -6,30 +6,17 @@
 
 ## 🚀 Proyectos destacados
 
-- [📱 calculadora-cientifica](https://github.com/Revolver244/calculadora-cientifica)  
+- [📱 calculadora-cientifica](https://github.com/Revolver244/calculadora.git)  
   Calculadora científica con Ionic y Angular.
 
 - [🏍️ Ducati-landing](https://github.com/Revolver244/pag-ducati.git)  
   Página estática tipo landing page inspirada en Ducati.
 
-- [📦 ejemplo-angular-lazy](https://github.com/Revolver244/ejemplo-angular-lazy)  
-  Ejemplo de carga perezosa en Angular.
+- [📦 ejemplo-angular-ionic-android](https://github.com/Revolver244/burguer.git)  
+  ejemplo de una app de comida rapida
 
-- [📝 ionic-tarea-app](https://github.com/Revolver244/ionic-tarea-app)  
-  App de tareas con almacenamiento local y navegación.
-
-- [🎬 peliculasApp](https://github.com/Revolver244/peliculasApp)  
+- [🎬 peliculasApp](https://github.com/Revolver244/peliculas-app.git)  
   Aplicación de películas en Ionic/Angular.
-
----
-
-## 🧪 Ejemplos y prácticas
-
-- [📄 ejemplo-captura-json](https://github.com/Revolver244/ejemplo-captura-json)  
-  Consumo básico de JSON en Angular.
-
-- [📚 programacion-dispositivos-moviles](https://github.com/Revolver244/programacion-dispositivos-moviles)  
-  Repositorio de prácticas y tareas del curso móvil.
 
 ---
 
